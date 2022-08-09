@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+#post {
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    width: 40%;
+    background-color: white;
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: left;
+    font-size: 5%;
+}
+img {
+    width: 100%;
+}
+#likes {
+    width: 100%;
+    white-space: normal;
+    padding: 5px;
+    clear: left;
+}
+#text {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+i {
+    vertical-align: middle;
+}
+.buttons {
+    float: left;
+    padding: 4px;
+}
+table {
+    width: 100%;
+    vertical-align: middle;
+}
+td {
+    vertical-align: middle;
+}
+#hdr1 {
+    width: 10%;
+    align-content: right;
+    vertical-align: middle;
+}
+#hdr2 {
+    width: 80%;
+}
+#hdr3 {
+    width: 10%;
+    float: right;
+    align-content: left;
+}
+#b4 {
+    float: right;
+}
+
