@@ -11,7 +11,12 @@ body {
     background-color: white;
     font-family: "Source Sans Pro", sans-serif;
     text-align: left;
-    font-size: 5%;
+    font-size: smaller;
+}
+#header {
+    display: flex;
+    align-items: center;
+    width: 100%;
 }
 img {
     width: 100%;
@@ -34,25 +39,18 @@ i {
     float: left;
     padding: 4px;
 }
-table {
-    width: 100%;
-    vertical-align: middle;
-}
-td {
-    vertical-align: middle;
-}
 #hdr1 {
-    width: 10%;
-    align-content: right;
-    vertical-align: middle;
+    width: 5%;
+    padding-left: 10px;
+    justify-content: left;
 }
 #hdr2 {
-    width: 80%;
+    width: 92.5%;
+    justify-content: left;
 }
 #hdr3 {
-    width: 10%;
-    float: right;
-    align-content: left;
+    width: 2.5%;
+    justify-content: right;
 }
 #b4 {
     float: right;
